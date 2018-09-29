@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/moorthy/babu/projects/ReactNative/AuthenticationDemo/AuthDemo/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v22/values-v22.xml",
+            "outputFile": "/Users/moorthy/Documents/PROJECTS/ReactNativeProjects/AuthDemo/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v22/values-v22.xml",
             "map": [
                 {
-                    "source": "/home/moorthy/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/ccb8c1daa59bf8d770225a2eaa560103/res/values-v22/values-v22.xml",
+                    "source": "/Users/moorthy/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/485cd522b3efc13ae47d8e905e5f8c58/res/values-v22/values-v22.xml",
                     "from": {
                         "startLines": "2,3,4,9",
                         "startColumns": "4,4,4,4",

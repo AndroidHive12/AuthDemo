@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/moorthy/babu/projects/ReactNative/AuthenticationDemo/AuthDemo/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ky/values-ky.xml",
+            "outputFile": "/Users/moorthy/Documents/PROJECTS/ReactNativeProjects/AuthDemo/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ky/values-ky.xml",
             "map": [
                 {
-                    "source": "/home/moorthy/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/ccb8c1daa59bf8d770225a2eaa560103/res/values-ky/values-ky.xml",
+                    "source": "/Users/moorthy/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/485cd522b3efc13ae47d8e905e5f8c58/res/values-ky/values-ky.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "/home/moorthy/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/209777d683fef24e60435af31cb7f7ad/res/values-ky/values-ky.xml",
+                    "source": "/Users/moorthy/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/5e116946b2fd192193c5da476f79e339/res/values-ky/values-ky.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

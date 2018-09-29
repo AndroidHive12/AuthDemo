@@ -21,13 +21,14 @@ const styles = {
     shadowColor: '#000',
     ShadowOffset: { width: 0, height: 2 },
     shadowOpacity: 0.2,
-    height: 60
+    height: 60,
+    elevation: 2
   },
   textStyle: {
     fontSize: 20
   }
 };
-export { Header }; 
+export { Header };
 
 
 //Make the created component available to the application.
